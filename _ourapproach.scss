@@ -1,0 +1,47 @@
+#approach {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+  }
+
+  .card-align {
+    margin-top: 15px;
+    margin-left: 80px;
+    float: left;
+    font-size: 12px;
+    text-align: justify;
+    line-height: 20px;
+  }
+   .our-services {
+     background-image: url("assets/images/bubble-links.jpg");
+     height: 400px;
+     width: 100%;
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-attachment: fixed;
+   }
+
+   .front2-back {
+     background-color: #E2E5DE;
+     height: 400px;
+     width: 100%;
+     background-image: none;
+     margin-top: 100px;
+   }
+
+   #ourapproach {
+     background-image: none;
+     background-color: #E2E5DE;
+     height: auto;
+     width: 100%;
+   }
+
+   .service-transform {
+     background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+     height: auto;
+     width: 100%;
+     background-size: cover;
+     background-repeat: no-repeat;
+     overflow: hidden;
+   }

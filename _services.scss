@@ -1,0 +1,87 @@
+  .solution-offers{
+    height:auto;
+    width: 100%;
+    background-color:#055397;
+  }
+  .sol-design{
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Archivo Black';
+    font-size: 50px;
+    color: white;
+  }
+
+  .offer-blocks{
+    height: auto;
+    width: 100%;
+    background-color: #055397;
+    color: white;
+    border: 1px solid white;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Archivo Black';
+
+  }
+
+  // services design 
+ .service-context{
+  margin-top: 20px;
+  height:auto;
+  width: 100%;
+  background: white; 
+}
+
+.icons-border-style{
+  height: 160px;
+  width: 200px;
+  background-color:white;
+  margin: 20px;
+  border-radius: 10px 40px 3px;
+}
+
+.context-color{
+  background-color: gray;
+  border-radius: 20px;
+  height: auto;
+  width: 80%;
+}
+// service css end
+
+.expect-card{
+    height: auto;
+    width: 100%;
+    background-color: #003193;
+    border-radius: 120px 0 120px 0px;
+}
+.expect-card-layout{
+    height: 250px;
+    width: 100px;
+    margin: 45px;
+    border-radius: 60px 0 60px 0px;
+    background-color: white;
+    overflow: auto;
+}
+
+  .canvas-join{
+    background-color: #36454f;
+    height: auto;
+    width: 100vw;
+    font-size: 60px;
+    text-align: center;
+    font-family: 'Archivo Black';
+    color: white;
+    overflow: hidden;
+  }
+ 
+  .circle{
+    margin-top: 90px;
+    height: 150px;
+    width: 150px;
+    position:sticky;
+    text-align: center;
+    background-color: #d4414d;
+    -webkit-border-radius: 59%;
+    -moz-border-radius: 95%;
+    border-radius: 95%;
+  
+  }

@@ -1,0 +1,66 @@
+
+    .login-title {
+        margin-top: 20px;
+        display: inline-block;
+        font-size: 35px;
+        font-weight: bold;
+        color: white;
+    }
+
+    .inputfields {
+        text-align: center;
+        background-color: black;
+        height: 480px;
+        width: 400px;
+        border-radius: 20px;
+        margin: auto;
+    }
+
+    input[type=text] {
+        text-align: center;
+        border-top: none;
+        border-bottom: 2px solid deepskyblue;
+        margin-top: 25px;
+        height: 35px;
+        width: 65%;
+        border-radius: 30px;
+        background-color: white;
+    }
+
+    input[type=password] {
+        border-top: none;
+        text-align: center;
+        margin-top: 25px;
+        border-bottom: 2px solid deepskyblue;
+        height: 35px;
+        width: 65%;
+        border-radius: 30px;
+
+    }
+
+    .labelalign {
+        float: left;
+        margin-left: 10px;
+        padding: 2px;
+        color: deepskyblue;
+        font-size: 15px;
+        font-weight: bolder;
+    }
+
+    button[type=submit] {
+        /* margin-top: 10px; */
+        height: 35px;
+        width: 120px;
+        border-radius: 15px;
+        font-weight: bold;
+        border: 2px solid white;
+        background-color: deepskyblue;
+        margin: 15px;
+    }
+
+    button:hover {
+        transition: 0.5s ease-in-out;
+        border: 3px solid dodgerblue;
+        background-color: transparent;
+        color: deepskyblue;
+    }
